@@ -89,18 +89,19 @@ h1{
     width: 100%;
     margin: 10px;
     border-radius: 50%;
-    padding: 40% 0;
+    padding: 50% 0;
 }
 
 .cute-image{
     width: 90%;
     margin: 20px;
+    padding: 20% 0;
 }
 
 .third-image{
     width: 100%;
     margin: 20px;
-    padding: 15% 0 ;
+    padding: 30% 0 ;
 }
 
 .testimonial-heading{
@@ -128,6 +129,7 @@ h1{
 .funny-image{
     width: 90%;
     margin: 20px;
+    padding: 20% 0;
 }
 
 .one-image{
@@ -135,7 +137,19 @@ h1{
     height: 100%;
     margin: 10px;
     /* border-radius: 50%; */
-    padding: 60% 0;
+    padding: 70% 0;
+}
+
+.forth-image{
+    width: 100%;
+    margin: 20px;
+    padding: 25% 0;
+}
+
+.fifth-image{
+    width: 100%;
+    margin: 20px;
+    padding: 50% 0;
 }
 
 
@@ -149,6 +163,7 @@ h1{
 .akku-image{
     width: 90%;
     margin: 20px;
+    padding: 20% 0;
 }
 
 .one-image{
@@ -156,13 +171,13 @@ h1{
     height: 100%;
     margin: 10px;
     /* border-radius: 50%; */
-    padding: 60% 0;
+    padding: 70% 0;
 }
 
 .second-image{
     width: 100%;
     margin: 20px;
-    padding: 20% 0 ;
+    padding: 30% 0 ;
 }
 
 
