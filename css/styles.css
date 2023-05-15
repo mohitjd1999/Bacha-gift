@@ -23,7 +23,7 @@ h1{
 /**************************** Class Selector *************************************/
 
 .container-fluid{
-    padding: 3% 15%;
+    padding: 15% 10%;
 }
 
 
@@ -58,7 +58,7 @@ h1{
 /************Image Section***********************/
 
 .title-image{
-    width: 80%;
+    width: 100%;
     position: relative;
     left: 120%;
     bottom: 40%;
@@ -89,12 +89,18 @@ h1{
     width: 100%;
     margin: 10px;
     border-radius: 50%;
-    padding: 20% 0;
+    padding: 40% 0;
 }
 
 .cute-image{
-    width: 70%;
+    width: 90%;
     margin: 20px;
+}
+
+.third-image{
+    width: 100%;
+    margin: 20px;
+    padding: 15% 0 ;
 }
 
 .testimonial-heading{
@@ -114,12 +120,22 @@ h1{
 
 #funny{
     text-align: center;
-    background-color: #F73D93;
+    /* background-color: #F73D93; */
+    /* background-color:  #ffa3b2; */
+    background-color:  #f2cca8;
 }
 
 .funny-image{
-    width: 70%;
+    width: 90%;
     margin: 20px;
+}
+
+.one-image{
+    width: 100%;
+    height: 100%;
+    margin: 10px;
+    /* border-radius: 50%; */
+    padding: 60% 0;
 }
 
 
@@ -127,12 +143,26 @@ h1{
 
 #akku{
     text-align: center;
-    background-color: #ff4c68;
+    background-color: #ff516b;
 }
 
 .akku-image{
-    width: 70%;
+    width: 90%;
     margin: 20px;
+}
+
+.one-image{
+    width: 100%;
+    height: 100%;
+    margin: 10px;
+    /* border-radius: 50%; */
+    padding: 60% 0;
+}
+
+.second-image{
+    width: 100%;
+    margin: 20px;
+    padding: 20% 0 ;
 }
 
 
